@@ -125,20 +125,6 @@ The project uses a Convolutional Neural Network (CNN) for image classification.
 
 ---
 
-## Repository Structure
-
-```text
-minor-project/
-│
-├── Smart_Photo_Organizer.ipynb
-├── Dataset_Link.txt
-├── Model_Link.txt
-├── README.md
-└── Assets/
-```
-
----
-
 ## Future Enhancements
 
 * Duplicate image detection
